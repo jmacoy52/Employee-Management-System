@@ -1,4 +1,9 @@
 # Employee Management System
+## Screenshot
+
+### Homepage
+
+![Homepage](client/public/assets/homepageEmplocore.png)
 
 A full-stack web application for managing employees, built with Node.js, Express, React, and MySQL.
 
@@ -64,11 +69,7 @@ A full-stack web application for managing employees, built with Node.js, Express
 - `client/` - React frontend application.
 - `client/public/assets/homepageEmplocore.png` - Homepage image displayed on the landing page.
 
-## Screenshot
 
-### Homepage
-
-![Homepage](client/public/assets/homepageEmplocore.png)
 
 ## Contributing
 
